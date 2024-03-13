@@ -28,13 +28,21 @@ The purpose of this dataset is to provide insights into the automotive market tr
 #The following questions were answered 
 
 1.Identify the most popular makes, models and body types
+
 2. Transmission popularity – Percentage of automatic vs. manual vehicles in the data set 
+
 3. Market Trends- Most Popular make and model by year 
+
 4. Most popular colors interior / exterior 
+
 5. Are there any correlations between car mileage and price?
+
 6. Calculate the profit by model 
+
 7. Median selling price based of make of car 
+
 8. Compare cars sales against the year it was sold in 
+
 9.  Most Popular car dealership/sellers for specific states 
 
 

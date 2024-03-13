@@ -25,6 +25,21 @@ The purpose of this dataset is to provide insights into the automotive market tr
 - `selling_price`: Selling price of the vehicle.
 - `sale_date`: Date of the vehicle sale.
 
+#The following questions were answered 
+
+1.Identify the most popular makes, models and body types
+2. Transmission popularity – Percentage of automatic vs. manual vehicles in the data set 
+3. Market Trends- Most Popular make and model by year 
+4. Most popular colors interior / exterior 
+5. Are there any correlations between car mileage and price?
+6. Calculate the profit by model 
+7. Median selling price based of make of car 
+8. Compare cars sales against the year it was sold in 
+9.  Most Popular car dealership/sellers for specific states 
+
+![image](https://github.com/tomasecheverria101/Project1Group1/assets/156872197/2cbd0595-ae88-4711-8aa8-1e0f630fc474)
+
+
 # Analysis
 The dataset can be analyzed to uncover various insights, including:
 - Trends in vehicle sales over time.

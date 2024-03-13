@@ -37,7 +37,7 @@ The purpose of this dataset is to provide insights into the automotive market tr
 8. Compare cars sales against the year it was sold in 
 9.  Most Popular car dealership/sellers for specific states 
 
-![image](https://github.com/tomasecheverria101/Project1Group1/assets/156872197/2cbd0595-ae88-4711-8aa8-1e0f630fc474)
+
 
 
 # Analysis

@@ -8,10 +8,10 @@ This dataset contains a collection of data spanning from 1982 to 2015 related to
 The purpose of this dataset is to provide insights into the automotive market trends, including vehicle popularity, pricing dynamics, color preferences, and more. By analyzing the dataset, researchers and analysts can gain valuable insights into consumer behavior, market trends, and factors influencing vehicle sales.
 
 # Data Description
-- `year`: Year of the vehicle sale.
-- `make`: Make of the vehicle (e.g., Ford, Toyota).
-- `model`: Model of the vehicle (e.g., Camry, Accord).
-- `trim`: Trim level of the vehicle (e.g., EX, Limited).
+- `Year`: Year of the vehicle sale.
+- `Make`: Make of the vehicle (e.g., Ford, Toyota).
+- `Model`: Model of the vehicle (e.g., Camry, Accord).
+- `Trim`: Trim level of the vehicle (e.g., EX, Limited).
 - `body_type`: Body type of the vehicle (e.g., sedan, SUV).
 - `transmission`: Transmission type of the vehicle (e.g., automatic, manual).
 - `VIN`: Vehicle Identification Number.
